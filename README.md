@@ -10,7 +10,7 @@
 
 2. **(60%)** 請挑選一個 LLM，利用不同的 prompting 技巧，讓模型成功解答以下 2024 年英國語言學奧林匹亞的題目，並回答下列問題。
 
-   [UKLO 2024 Problem 4. Xhosa](https://www.uklo.org/?p=2024-problem4)
+   [UKLO 2024 Problem 4. Xhosa](https://drive.google.com/file/d/1jWBE-2xCoSvzdViwQIgEPndWrdrhiuLJ/view?usp=sharing)
 
    請先閱讀題目與答案，並設計 prompt，在不直接告訴模型答案的前提下，引導模型得出正確答案。請截圖或附上連結提供你與模型的對話紀錄。
 
