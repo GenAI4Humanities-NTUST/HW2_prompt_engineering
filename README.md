@@ -23,5 +23,3 @@
 1. [Prompt Engineering Guide 提示工程指南](https://www.promptingguide.ai/zh)
 2. [DeepLearning AI - ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 3. [DeepLearning AI - Prompt Engineering with Llama 2 & 3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GenAI4Humanities-NTUST/HW3_prompt_engineering/blob/main/test.ipynb)
